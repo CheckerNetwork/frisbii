@@ -11,7 +11,7 @@ import (
 
 	"github.com/ipfs/go-cid"
 	"github.com/ipfs/go-unixfsnode"
-	"github.com/ipld/frisbii"
+	"github.com/CheckerNetwork/frisbii"
 	"github.com/ipld/go-car/v2"
 	dagpb "github.com/ipld/go-codec-dagpb"
 	"github.com/ipld/go-ipld-prime/datamodel"

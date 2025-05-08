@@ -12,7 +12,7 @@ import (
 	gstestutil "github.com/ipfs/go-graphsync/testutil"
 	"github.com/ipfs/go-unixfsnode"
 	unixfs "github.com/ipfs/go-unixfsnode/testutil"
-	"github.com/ipld/frisbii"
+	"github.com/CheckerNetwork/frisbii"
 	"github.com/ipld/go-car/v2"
 	"github.com/ipld/go-ipld-prime/datamodel"
 	"github.com/ipld/go-ipld-prime/linking"

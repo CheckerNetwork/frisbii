@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/ipfs/go-log/v2"
-	"github.com/ipld/frisbii"
+	"github.com/CheckerNetwork/frisbii"
 	car "github.com/ipld/go-car/v2"
 	carstorage "github.com/ipld/go-car/v2/storage"
 	"github.com/ipni/go-libipni/maurl"

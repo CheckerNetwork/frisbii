@@ -13,10 +13,10 @@ Frisbii does not directly interact with the IPFS DHT, which limits discovery pot
 To install the latest version of Frisbii, run:
 
 ```
-go install github.com/ipld/frisbii/cmd/frisbii@latest
+go install github.com/CheckerNetwork/frisbii/cmd/frisbii@latest
 ```
 
-Alternatively, binaries are available for download on the [releases page](https://github.com/ipld/frisbii/releases).
+Alternatively, binaries are available for download on the [releases page](https://github.com/CheckerNetwork/frisbii/releases).
 
 ## Usage
 
@@ -51,7 +51,7 @@ Using `--anounce=roots` will announce the roots of all CARs loaded by Frisbii to
 
 ## Library usage
 
-See https://pkg.go.dev/github.com/ipld/frisbii for full documentation.
+See https://pkg.go.dev/github.com/CheckerNetwork/frisbii for full documentation.
 
 `NewFrisbiiServer()` can be used to create a new server given a `LinkSystem` as a source of IPLD data.
 

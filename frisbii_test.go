@@ -13,7 +13,7 @@ import (
 
 	"github.com/ipfs/go-cid"
 	unixfstestutil "github.com/ipfs/go-unixfsnode/testutil"
-	"github.com/ipld/frisbii"
+	"github.com/CheckerNetwork/frisbii"
 	"github.com/ipld/go-car/v2"
 	unixfsgen "github.com/ipld/go-fixtureplate/generator"
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"

@@ -14,8 +14,8 @@ import (
 
 	"github.com/ipfs/go-log/v2"
 	"github.com/ipfs/go-unixfsnode"
-	"github.com/ipld/frisbii"
-	util "github.com/ipld/frisbii/internal/util"
+	"github.com/CheckerNetwork/frisbii"
+	util "github.com/CheckerNetwork/frisbii/internal/util"
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"
 	"github.com/ipni/go-libipni/maurl"
 	"github.com/ipni/index-provider/engine"

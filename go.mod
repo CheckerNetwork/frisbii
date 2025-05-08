@@ -1,4 +1,4 @@
-module github.com/ipld/frisbii
+module github.com/CheckerNetwork/frisbii
 
 go 1.23.0
 
